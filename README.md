@@ -1,0 +1,2 @@
+# Fuzuu
+First code
